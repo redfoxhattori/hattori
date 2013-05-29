@@ -1,4 +1,4 @@
-INSERT INTO m_statuses ( values ('11942','èoãŒ','000','1',NOW(),NOW(),null,null,'0','1','1','1','0',null,'0','0','0','0');
+INSERT INTO m_statuses ( values ('xxx11942','èoãŒ','000','1',NOW(),NOW(),null,null,'0','1','1','1','0',null,'0','0','0','0');
 INSERT INTO m_statuses ( values ('11942','åªèÍçÏã∆','020',null,NOW(),NOW(),null,null,'1','2','1','1','3',null,'0','0','0','0');
 INSERT INTO m_statuses ( values ('11942','ãxåeäJén','020',null,NOW(),NOW(),null,null,'0','3','1','2','0',null,'0','1','0','0');
 INSERT INTO m_statuses ( values ('11943','ãxåeèIóπ','020',null,NOW(),NOW(),null,null,'0','4','1','1','0',null,'0','1','0','0');
